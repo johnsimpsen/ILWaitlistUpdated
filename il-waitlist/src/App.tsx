@@ -232,7 +232,7 @@ function App() {
 
         <footer className="footer">
             <p className="developer-credit">Being developed by FrameBros</p>
-            <p className="release-date">Releasing August 2025</p>
+            <p className="release-date">Releasing August 2026</p>
         </footer>
       </div>
 
